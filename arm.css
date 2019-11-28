@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+}
+.car {
+    float: right;
+}
+footer {
+    clear: right;
+}
+.logo {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+.one {
+    font-size: 39px;
+}
+.two{
+    font-family:'Futura PT W01 Book';
+    font-size: 42px;
+    line-height: .9;
+}
+.logo img {
+    width: 131.203px;
+    height: 40px;
+}
+.yellow {
+    background-color: #ffc700;
+    height: 3px;
+    width: 100%;
+    margin: 30px 0px 15px;
+}
+.zi {
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    color: aliceblue;
+
+}
+.three {    
+    color: inherit;
+    font-family: 'Futura PT W01 Light';
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 1;
+    margin: 0px 0px 30px;
+}
