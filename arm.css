@@ -75,6 +75,15 @@ footer {
     display: inline-flex;
     box-sizing:border-box;
 }
+a, .zz {
+  color: #333e48;
+}
+a, .zzz {
+  color: #0091bd;
+}
+a, .zzzz {
+  color: #007ea5;
+}
 .main {
     padding-top: 90px;
     padding-bottom: 45px;                                        
@@ -1317,24 +1326,25 @@ a {
     height: 46px;
     position: absolute;
     left: 120px;
-    margin-top: 341px;
+    top: 341px;
 }
 .lo-2 img {
     width: 90px;
     height: 27.438px;
-    margin-top: 356px;
-    margin-left: 120px;
+    margin-left: 490px;
+    margin-top: 53px;
 }
 .lo-3 img {
-    width: 800px;
-    height: 29px;
-    padding-left: 120px;
-    margin-top: 14px;
+  width: 800px;
+  height: 29px;
+  position: absolute;
+  left: 120px;
+  top: 410px;
 }
 .footer {
     padding-left: 120px;
     color: #a3a8ae;
-    padding-top: 10px;
+    padding-top: 60px;
 }
 .g {
     height: 120px;
